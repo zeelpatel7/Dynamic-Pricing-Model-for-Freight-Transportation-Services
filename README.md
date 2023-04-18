@@ -39,6 +39,19 @@ Parameters influencing the pricing strategy can be but not limited to the follow
 10. Multiple orders 
 11. Seasonality Changes and Public Holidays
 
+## Frieght Transportation Services
+
+The freight transportation companies should ideally be able to increase their profit margins while remaining competitive in the 
+market with well-adjusted prices for their services. The freight goods shipping service industry is very dynamic. The various 
+consumers’ needs explain the volatile nature of this industry. Global Corporations, small businesses, E- Commerce Companies, as 
+well as individual consumers all have a need to ship packages or documents to other businesses or individuals; however, the nature 
+of these services will vary. 
+It depends on: 
+1. Extent of rivalry between established firms 
+2. Bargaining power of buyers 
+3. Bargaining power of suppliers 
+4. Threat of substitute products
+
 ## Data Source
 FedEx Service Guide - https://www.fedex.com/content/dam/fedex/us-united-states/services/Service_Guide_2022.pdf
 
