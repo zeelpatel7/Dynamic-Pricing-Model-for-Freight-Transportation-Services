@@ -24,7 +24,20 @@ The key components of a dynamic pricing model typically include:
 
 Overall, a dynamic pricing model is a complex and data-driven approach to pricing that leverages real-time data and advanced algorithms to optimize pricing decisions and drive business results. It requires careful planning, monitoring, and analysis to ensure that the pricing strategy aligns with business goals and customer expectations.
 
+## Pricing Strategy 
 
+Parameters influencing the pricing strategy can be but not limited to the following: 
+1. Weight of the package 
+2. Dimensions of the package 
+3. Distance to Delivery location 
+4. Fuel fluctuations 
+5. Delivery Speed 
+6. Type of Delivery Location 
+7. Weather conditions 
+8. Shipping Insurance 
+9. Customs and Duties 
+10. Multiple orders 
+11. Seasonality Changes and Public Holidays
 
 ## Data Source
 FedEx Service Guide - https://www.fedex.com/content/dam/fedex/us-united-states/services/Service_Guide_2022.pdf
