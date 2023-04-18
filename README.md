@@ -1,1 +1,1 @@
-# Dynamic-Pricing-Model-for-Freight-Transportation-Services
+# Dynamic Pricing Model for Freight Transportation Services
