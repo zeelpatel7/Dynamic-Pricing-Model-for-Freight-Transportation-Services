@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 15 23:34:48 2023
 
-@author: raghavendrakharosekar
-"""
 
 import streamlit as st
 import airportsdata as ad
